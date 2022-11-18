@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 2%;
+}
+
+.begin {
+    display: none;
+}
+.option {
+    display: flex;
+    flex-wrap: wrap;
+}
