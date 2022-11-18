@@ -16,4 +16,4 @@ Everytime a question is anser a prompt will state if its wrong or correct and fo
 question 15 secs will be removed. Each Highscores will be displayed by time remaining
 so please record your initals at the end of the game!
 
-link ---> 
+link ---> https://sdnovice.github.io/quiz-game-js-fund/
